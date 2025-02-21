@@ -18,4 +18,4 @@ Default will LISTEN on port localhost:8000
 
 # Web Application
 
-#### Ensure the server is running before running the ContributionViewer Application (see [README](./fe/ContributionViewer/README.md))
+#### Ensure the server is running before running the ContributionViewer Application (see [README](./ui/contribution-viewer/README.md))
